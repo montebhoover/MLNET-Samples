@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StaticSdca", "BugTest\StaticSdca.csproj", "{94F70240-6E8A-4056-A98F-AA104849BF85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicSdca", "DynamicSdca\DynamicSdca.csproj", "{95CA778B-1E99-42AF-A314-0BB688B76BE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegacySdca", "LegacySdca\LegacySdca.csproj", "{B3DC2D9B-D7A3-456A-BAB2-AC53B663270F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94F70240-6E8A-4056-A98F-AA104849BF85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94F70240-6E8A-4056-A98F-AA104849BF85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94F70240-6E8A-4056-A98F-AA104849BF85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94F70240-6E8A-4056-A98F-AA104849BF85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95CA778B-1E99-42AF-A314-0BB688B76BE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95CA778B-1E99-42AF-A314-0BB688B76BE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95CA778B-1E99-42AF-A314-0BB688B76BE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95CA778B-1E99-42AF-A314-0BB688B76BE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3DC2D9B-D7A3-456A-BAB2-AC53B663270F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3DC2D9B-D7A3-456A-BAB2-AC53B663270F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3DC2D9B-D7A3-456A-BAB2-AC53B663270F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3DC2D9B-D7A3-456A-BAB2-AC53B663270F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CDCEC34-FDBE-45CF-BBFB-A108860F30C7}
+	EndGlobalSection
+EndGlobal
