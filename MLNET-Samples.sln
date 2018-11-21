@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicSdca", "DynamicSdca\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegacySdca", "LegacySdca\LegacySdca.csproj", "{B3DC2D9B-D7A3-456A-BAB2-AC53B663270F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicIidSpikeDetector", "DynamicIidSpikeDetector\DynamicIidSpikeDetector.csproj", "{690D24FF-1553-40DA-A933-6DA891A2331A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{B3DC2D9B-D7A3-456A-BAB2-AC53B663270F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3DC2D9B-D7A3-456A-BAB2-AC53B663270F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3DC2D9B-D7A3-456A-BAB2-AC53B663270F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{690D24FF-1553-40DA-A933-6DA891A2331A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{690D24FF-1553-40DA-A933-6DA891A2331A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{690D24FF-1553-40DA-A933-6DA891A2331A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{690D24FF-1553-40DA-A933-6DA891A2331A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
